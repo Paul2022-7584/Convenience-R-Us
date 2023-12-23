@@ -1,5 +1,5 @@
 # Convenience-R-Us
-Makeshift grocery store website with a basic login, account management, and e-commerce system
+A makeshift grocery store website with a basic login, account management, and e-commerce system that was made as my university capstone project
 
 
 Username and password varies depending on which account level the user wants:
