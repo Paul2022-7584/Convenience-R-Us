@@ -6,5 +6,3 @@ Username and password varies depending on which account level the user wants:
 For customer account - Username = customer, Password = customer
 For publisher account - Username = publisher, Password = publisher
 For admin account - Username = admin, Password = admin
-
-Website link is www.paulswebpage.com
